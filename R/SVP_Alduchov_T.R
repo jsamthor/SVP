@@ -3,7 +3,7 @@
 # A more precise (and accurate) calculation of saturation vapor pressurve (SVP)
 # than generally used in plant physiology modeling when vapor pressure deficit
 # is of concern -- ASSUMING ATMOSPHERIC PRESSURE OF 100 kPa which will usually
-# for most locations be incorrect.
+# for most locations be INCORRECT.
 #
 # Saturation Vapor Pressure Calculation
 #
