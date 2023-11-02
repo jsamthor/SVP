@@ -30,6 +30,6 @@
 # SVP   : saturation vapor pressure, Pa
 # T     : air temperature, degrees Celsius
 
-  preciseSVP = function(T) { SVP = 614.131 * exp(17.625 * T / (243.04 + T)) }
+  SVP_Ald_T = function(T) { SVP = 614.131 * exp(17.625 * T / (243.04 + T)) }
 
 ##==============================================================================
